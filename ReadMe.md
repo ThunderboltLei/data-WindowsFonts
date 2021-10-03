@@ -1,8 +1,8 @@
 1、下载字体simhei.ttf，并放在该目录下
-SimHei.ttf 在百度网盘里
 
 /anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf
 目录查看：
+
 import matplotlib
 matplotlib.matplotlib_fname()
 >>> .../site-packages/matplotlib/mpl-data/matplotlibrc （配置文件）
